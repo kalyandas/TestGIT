@@ -8,7 +8,7 @@ public class TestGIT
 	 */
 	public static void main(String[] args)
 	{
-		System.out.println("Hello!!!");
+		System.out.println("Hello!!! its only a test");
 
 	}
 
